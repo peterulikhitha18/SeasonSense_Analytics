@@ -1,6 +1,8 @@
 \# 🌾 SeasonSense Analytics
 
+## 🚀 Live Demo
 
+[🌐 Open SeasonSense Analytics](https://seasonsense-analytics.streamlit.app/)
 
 \## Seasonal Agriculture Performance Analysis
 
